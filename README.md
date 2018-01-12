@@ -1,0 +1,2 @@
+# Solardata
+Sonnenmesswerte fürs DAPNET
